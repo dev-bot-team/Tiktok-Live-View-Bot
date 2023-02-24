@@ -6,7 +6,7 @@ Bot works using session cookies + emulated android devices list.
 
 This tool is however not free since I work hard for this so sorry for not sharing it.
 You can use a demo trial version then contact me on Telegram if you want more:<br>
-<b>Telegram:</b> https://t.me/dev_bot_team<br>
+<b>Telegram:</b> https://t.me/dev_bot_official<br>
 
 <h3>What Can Do This TikTok Bot?</h3>
 - View video<br>
