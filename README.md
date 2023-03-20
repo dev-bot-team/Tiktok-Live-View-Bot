@@ -25,4 +25,4 @@ you can however buy it from me OR generate yourself and then save to txt file, I
 
 PLEASE USE IT AT YOUR OWN RISK since YouTube do NOT ALLOW API BOTS I only made it because I love coding.<br>
 <h1>FULL VERSION Available on Telegram ONLY</h1>
-<b>GUYS I WORK NOT FOR FREE SO I will appreciate that you dont insult me in Telegram just because I dont liek to give anymore free trials or views test. !</b>
+<b>GUYS I WORK NOT FOR FREE SO <br>I will appreciate that you dont insult me in Telegram just because I dont like to give anymore free trials or views test. !</b>
